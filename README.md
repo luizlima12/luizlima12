@@ -18,4 +18,4 @@ Conheça mais sobre mim no perfil do meu insta.
 
 ##
 
-![Snake animation](https://github.com/Gutoneitzke/gutoneitzke/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://https://github.com/luizlima12/SNACK-SVG.git)
