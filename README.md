@@ -1,6 +1,8 @@
 ### Olá pessoal! Eu sou o Luiz Lima 😄🚀 
 
+Aprendendo programar pra se tornar um DEV Full-stack!!!
 
+Conheça mais sobre mim no perfil do meu insta.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizf.o_)
 
