@@ -18,4 +18,4 @@ Conheça mais sobre mim no perfil do meu insta.
 
 ##
 
-![Snake animation]([https://https://github.com/luizlima12/SNACK-SVG.git)
+![Snake animation](https://github.com/luizlima12/SNACK-SVG/blob/main/snack-snack.svg)
