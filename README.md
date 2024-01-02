@@ -28,5 +28,6 @@ Conheça mais sobre mim no perfil do meu insta.
 </div>
 <br/>
 
+##
 
 ![Snake animation](https://github.com/luizlima12/SNACK-SVG/blob/main/snack-snack.svg)
