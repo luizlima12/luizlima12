@@ -17,7 +17,6 @@ Conheça mais sobre mim no perfil do meu insta.
   
 </div>
 <br/>
-##
 ## Frameworks que mais utilizo
 <br>
 <div style="display: inline_block">
