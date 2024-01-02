@@ -16,6 +16,7 @@ Conheça mais sobre mim no perfil do meu insta.
   <img align="center" alt="typescript" src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img align="center" alt="react" src="https://img.shields.io/badge/-Next.js-blue?style=for-the-badge&logo=next.js&logoColor=white">
   
 </div>
 <br/>
