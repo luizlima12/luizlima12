@@ -17,6 +17,7 @@ Conheça mais sobre mim no perfil do meu insta.
   
 </div>
 <br/>
+
 ## Frameworks que mais utilizo
 <br>
 <div style="display: inline_block">
@@ -26,6 +27,6 @@ Conheça mais sobre mim no perfil do meu insta.
   
 </div>
 <br/>
-##
+
 
 ![Snake animation](https://github.com/luizlima12/SNACK-SVG/blob/main/snack-snack.svg)
