@@ -2,6 +2,8 @@
 
 Aprendendo a programar pra me tornar um DEV Full-stack!!!
 
+Cursando Ciência da Computação na universidade <a href="https://estacio.br/">Estácio de sá</a>
+
 Conheça mais sobre mim no perfil do meu insta.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizf.o_)
