@@ -33,7 +33,7 @@ Conheça mais sobre mim no perfil do meu insta.
 ## Ferramentas de trabalho
 <br>
 <div style="display: inline_block">
-  <img align="center" alt="docker" src="https://img.shields.io/badge/-docker-339933?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="docker" src="https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 <br/>
 
