@@ -18,7 +18,9 @@ Conheça mais sobre mim no perfil do meu insta.
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-BF40BF?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="typescript" src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
- <img align="center" alt="tailwind" src="https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss&logoColor=black">
+  <div style="border-radius: 8px; overflow: hidden; display: inline-block;">
+    <img src="https://img.shields.io/badge/TailwindCSS-white?style=for-the-badge&logo=tailwindcss&logoColor=black">
+  </div>
 
 </div>
 <br/>
