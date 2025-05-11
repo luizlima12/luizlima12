@@ -1,6 +1,4 @@
-### Olá pessoal! Eu sou o Luiz Lima 😄🚀 
-
-Aprendendo a programar pra me tornar um DEV Full-stack!!!
+### Olá pessoal! Eu sou o Luiz Lima 😄
 
 Cursando Ciência da Computação na universidade <a href="https://estacio.br/">Estácio de sá</a>
 
