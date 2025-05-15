@@ -1,14 +1,14 @@
-### Olá pessoal! Eu sou o Luiz Lima 😄
+### Hello everyone! I'm Luiz Lima😄
 
-Cursando Ciência da Computação na universidade <a href="https://estacio.br/">Estácio de sá</a>
+Studying Computer Science at university <a href="https://estacio.br/">Estácio de sá</a>
 
-Analista e desenvolvedor na empresa <a href="https://www.jerasoft.com.br/">JeraSoft co</a>
+Analyst and developer in the company <a href="https://www.jerasoft.com.br/">JeraSoft co</a>
 
-Conheça mais sobre mim no perfil do meu insta.
+Find out more about me on my Instagram profile.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizf.o_)
 
-## Tecnologias que mais utilizo
+## Technologies I use the most
 <br>
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,7 +22,7 @@ Conheça mais sobre mim no perfil do meu insta.
 </div>
 <br/>
 
-## Frameworks que mais utilizo
+## Frameworks I use the most
 <br>
 <div style="display: inline_block">
   <img align="center" alt="node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
@@ -33,7 +33,7 @@ Conheça mais sobre mim no perfil do meu insta.
 </div>
 <br/>
 
-## Ferramentas de trabalho
+## Work tools
 <br>
 <div style="display: inline_block">
   <img align="center" alt="docker" src="https://img.shields.io/badge/-docker-blue?style=for-the-badge&logo=docker&logoColor=white">
